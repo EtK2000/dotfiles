@@ -1,9 +1,0 @@
--nostdinc
--ibuiltininc
--Wall
--I/home/ANT.AMAZON.COM/kahayaro/stuff/windows_kits
--I/home/ANT.AMAZON.COM/kahayaro/stuff/ms_vs
--I../AgentDriver
--I../AgentDriver/src/
--I../AgentDriver/src/common/windows
--I../AgentDriver/src/common

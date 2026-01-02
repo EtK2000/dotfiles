@@ -1,9 +1,0 @@
--nostdinc
--ibuiltininc
--Wall
--I../AgentDriver
--I../AgentDriver/src/
--I../AgentDriver/src/linux
--I/home/ANT.AMAZON.COM/kahayaro/stuff/linux/include/generated/uapi
--I/home/ANT.AMAZON.COM/kahayaro/stuff/linux/include
--D__KERNEL__
